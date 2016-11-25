@@ -1,0 +1,1 @@
+This is Kume's first git project!
